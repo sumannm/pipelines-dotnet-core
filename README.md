@@ -1,4 +1,3 @@
-[![Build Status](https://sumannm.visualstudio.com/pipelines-dotnet-core/_apis/build/status/pipelines-dotnet-core-ASP.NET%20Core-CI?branchName=master)](https://sumannm.visualstudio.com/pipelines-dotnet-core/_build/latest?definitionId=1?branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to use this repository, see [.NET Core](https://docs.microsoft.com/azure/devops/pipelines/languages/dotnet-core).
